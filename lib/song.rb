@@ -11,6 +11,10 @@ def initialize(name, artist, genre)
 @genre = genre
 end
 
+@@count 
 
+def count_variable_get 
+@@count += 1
+end
  
 end
