@@ -18,7 +18,4 @@ end
 
 end
 
-Song.new 
-Song.new 
-Song.new 
  
