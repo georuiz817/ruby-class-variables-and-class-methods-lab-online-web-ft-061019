@@ -8,6 +8,6 @@ def initialize(name, artist, genre)
 @genre = genre
 end
 
-@@count = Song.count
+@@count = Self.count
  
 end
