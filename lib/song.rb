@@ -18,7 +18,7 @@ end
 
 end
 
-ninety_nine_problems = Song.new("99 Problems", "Jay-Z", "Rap")
-mask_off = Song.new("Mask Off", "Future", "Rap")
-dance_macabre = Song.new("Dance Macabre", "Ghost", "Metal")
+Song.new 
+Song.new 
+Song.new 
  
