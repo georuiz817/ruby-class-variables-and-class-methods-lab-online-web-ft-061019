@@ -13,8 +13,8 @@ end
 
 @@count 
 
-def count_variable_get 
-@@count += 1
+def class_variable_get 
+  @@count = Song.count 
 end
  
 end
