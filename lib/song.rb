@@ -15,6 +15,7 @@ end
   
   def self.count 
     @@count
+    puts song.count
   end 
 
  
