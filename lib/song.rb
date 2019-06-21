@@ -9,7 +9,7 @@ def initialize(name, artist, genre)
 end
 
 def class_variable_get 
-  @@count 
+  @@count = .count 
 end
  
 
